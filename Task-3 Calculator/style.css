@@ -1,0 +1,62 @@
+body,html{
+    height: 100%;
+    width: 100%;
+    font-family: 'Brygada 1918', serif;
+}
+
+.text-center{
+    text-align: center;
+    font-size: 42px;
+}
+
+
+
+.mg{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+}
+
+.flex-c{
+    flex-direction: column;
+}
+
+
+.button{
+    width: 71px;
+    padding: 19px 28px;
+    margin: 0px 3px;
+    border: 3px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 15px;
+    background-color: #19f1c5fa;
+}
+.row{
+    margin: 8px ;
+}
+
+.row input{
+    font-size: 25px;
+    margin: 0;
+    padding: 25px 0px;
+    border: 3px solid black;
+    border-radius: 13px;
+    text-align: right;
+}
+
+.container{
+    border: 3px solid black;
+    background-color: #25252b;
+    padding: 23px;
+    border-radius: 53px;
+    width: 407px;
+    height: 477px;
+    
+}
+
+
+

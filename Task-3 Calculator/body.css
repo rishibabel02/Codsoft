@@ -1,0 +1,19 @@
+.text-center{
+    text-align: center;
+    font-size: 42px;
+}
+
+
+
+.mg{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+}
+
+.flex-c{
+    flex-direction: column;
+}
